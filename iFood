@@ -36,3 +36,4 @@ game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos
 game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(d,e)
 game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(a,b,c)
 game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(d,e)
+print("a")
