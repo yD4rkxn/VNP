@@ -1,4 +1,3 @@
-```
 local a = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
 local b = 181
 local c = 984
@@ -27,4 +26,4 @@ game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos
 game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(a,b,c)
 game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(a,b)
 game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(a,b,c)
-game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(a,b)```
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(a,b)
