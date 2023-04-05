@@ -1,0 +1,3328 @@
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+local args = {
+    [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22"),
+    [2] = 181,
+    [3] = 984
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
+local args = {
+    [1] = 181,
+    [2] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("22")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
