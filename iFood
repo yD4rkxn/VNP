@@ -46,22 +46,12 @@ local Dex = Script:CreateButton({
 
 local VNPIFOOD = VNP:CreateSection("IFOOD")
 
-
-
-local toggle = VNP:CreateToggle({
-   Name = "iFood Auto",
-   CurrentValue = false,
-   Flag = "Toggle1", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
-   Callback = function(Value)
-   print("a")
-   end,
-})
-
-
-
-local PuxarBotao= VNP:CreateButton({
-   Name = "Puxar iFood",
+local PuxarBotao = VNP:CreateButton({
+   Name = "Puxar iFood ON",
    Callback = function()
+   getgenv().ifoodauto = true
+   while getgenv().ifoodauto == true do
+   
    	local args = {
     [1] = workspace:WaitForChild("IFOOD"):WaitForChild("Locais_Entrega"):WaitForChild("14"),
     [2] = 86,
@@ -78,9 +68,16 @@ local args = {
 }
  
 game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("Entregou"):InvokeServer(unpack(args))
+end
    end,
 })
 
+local PuxarBotao2 = VNP:CreateButton({
+   Name = "Puxar iFood OFF",
+   Callback = function()
+   getgenv().ifoodauto = false
+   end,
+})
 
 
 
