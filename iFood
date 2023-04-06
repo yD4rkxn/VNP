@@ -82,7 +82,7 @@ local PuxarBotao3 = VNP:CreateButton({
    Callback = function()
    getgenv().ifoodauto = true
    end,
-
+})
 
 
 local VNPARMAS = VNP:CreateSection("ARMAS")
