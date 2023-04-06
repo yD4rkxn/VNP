@@ -47,7 +47,7 @@ local Dex = Script:CreateButton({
 local VNPIFOOD = VNP:CreateSection("IFOOD")
 
 local PuxarBotao = VNP:CreateButton({
-   Name = "Puxar iFood ON",
+   Name = "Puxar +",
    Callback = function()
    while getgenv().ifoodauto == true do
    
