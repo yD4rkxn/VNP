@@ -60,7 +60,6 @@ local PuxarBotao = VNP:CreateButton({
  
 game:GetService("ReplicatedStorage"):WaitForChild("IFOOD"):WaitForChild("Eventos"):WaitForChild("AceitouEntrega"):InvokeServer(unpack(args))
  
-wait()
  
 local args = {
     [1] = 86,
