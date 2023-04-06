@@ -49,7 +49,6 @@ local VNPIFOOD = VNP:CreateSection("IFOOD")
 local PuxarBotao = VNP:CreateButton({
    Name = "Puxar iFood ON",
    Callback = function()
-   getgenv().ifoodauto = true
    while getgenv().ifoodauto == true do
    
    	local args = {
@@ -77,6 +76,12 @@ local PuxarBotao2 = VNP:CreateButton({
    getgenv().ifoodauto = false
    end,
 })
+
+local PuxarBotao3 = VNP:CreateButton({
+   Name = "Puxar ON",
+   Callback = function()
+   getgenv().ifoodauto = true
+   end,
 
 
 
